@@ -57,13 +57,6 @@ main.ipynb
 
 4. Run all cells step by step
 
----
-
-📸 Output Screenshots
-
-(Add your screenshots in the screenshots folder)
-
----
 
 🔮 Future Improvements
 
