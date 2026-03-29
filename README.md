@@ -73,8 +73,7 @@ This project helps beginners understand how to work with Python, Excel files, an
 ---
 
 👩‍💻 Author
-Deepika
 
-Your Name
+Deepika
 
 ---
